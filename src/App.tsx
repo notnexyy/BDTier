@@ -245,7 +245,7 @@ export default function App() {
           {/* Discord CTA & Mobile Menu */}
           <div className="flex items-center gap-3">
             <a
-              href="https://discord.gg/77BkNwJxan"
+              href="https://discord.gg/YGBMdMtcnc"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-1.5 bg-[#5865F2] hover:bg-[#4752C4] hover:shadow-[0_0_15px_rgba(88,101,242,0.4)] text-white text-xs font-display tracking-widest font-bold uppercase px-3 py-2 sm:px-4 sm:py-2.5 rounded-lg transition-all"
